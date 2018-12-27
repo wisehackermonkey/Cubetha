@@ -9,3 +9,5 @@ github.com/wisehackermonkey
 
 ## Play the Game Online! 
 [Click here to play the game online](https://wisehackermonkey.github.io/Cubetha/index.html)
+---
+#### How to play use arrow keys or WASD to avoid the blocks. 
